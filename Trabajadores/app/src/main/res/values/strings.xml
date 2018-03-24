@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Trabajadores</string>
+    <!-- Datos personales-->
+    <string name="Mi_nombre">Martha Karina Morales Godínez</string>
+    <string name="inge">Ingenieria en Tecnologías de la Información y Comunicación</string>
+    <string name="asignatura">Programación de Aplicaciones</string>
+    <string name="no_control">1214100407</string>
+    <string name="fecha">Fecha: </string>
+
+    <!-- Botones-->
+    <string name="start">Iniciar</string>
+    <string name="save">Guardar</string>
+    <string name="edit">Editar</string>
+    <string name="delete">Borrar</string>
+    <string name="hombre">Hombre</string>
+</resources>
