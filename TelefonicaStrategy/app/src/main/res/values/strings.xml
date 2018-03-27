@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TelefonicaStrategy</string>
+    <string name="texto_creditos">
+        Créditos \n\n
+        Nombre: Marco Mendiola \n
+        Asignatura: Programación de Aplicaciones \n
+        Grupo: GITI9083-s</string>
+    <string-array name="opciones">
+        <item>Telcel</item>
+        <item>Unefon</item>
+        <item>MyCompany</item>
+        <item>Movistar</item>
+    </string-array>
+</resources>
